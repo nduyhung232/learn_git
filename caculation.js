@@ -6,7 +6,7 @@
  * @param {number} b - Số thứ hai
  * @returns {number} - Tổng của a và b
  */
-function add(a, b) {
+function additional(a, b) {
     return a + b;
 }
 
